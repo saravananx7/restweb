@@ -28,7 +28,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-- - -
+~~~
 
 <html>
 <head>
@@ -504,8 +504,8 @@ body {
     margin: 0;
     letter-spacing: 1px;
 }
+~~~
 
-- - -
 
 ## OUTPUT:
 ![alt text](<Screenshot 2025-12-28 233623.png>)
